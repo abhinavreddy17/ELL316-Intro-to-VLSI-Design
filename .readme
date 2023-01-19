@@ -1,1 +1,5 @@
-Different projects 
+ELL316 Assignment 1.pdf
+
+The first assignment was based on the simple chain of inverters.
+Starting from a minimum sized inverter, we need to drive a 1024x sized inverter. Evaluate different fan-out ratios to figure out which gives the best performance.
+With ngspice (or LTspice) simulations we need to come up with a graph with x-axis as N(Number of inverters in the chain) and y-axis as the delay.(Using TSMC 0.18um Technology)
