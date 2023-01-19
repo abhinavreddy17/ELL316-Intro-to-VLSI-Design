@@ -14,6 +14,7 @@ With an input before the first inverter has a rise and fall time of 10 ps, the p
 
 
 ![invchain](https://user-images.githubusercontent.com/119739544/213428964-612fe5d2-b320-4e39-9078-742fa35128f3.svg)
+Image for Assignment 1 and 2
 
 
 # ELL316 Assignment 3.pdf
