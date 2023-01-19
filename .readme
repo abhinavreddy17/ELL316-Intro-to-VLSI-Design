@@ -12,7 +12,6 @@ Starting from a minimum sized inverter, we need to drive a 1024x sized inverter.
 With ngspice (or LTspice) simulations we need to come up with a graph with x-axis as N(Number of inverters in the chain) and y-axis as the Power Consumed.(Using TSMC 0.18um Technology)
 With an input before the first inverter has a rise and fall time of 10 ps, the pulse width is 1 ns and the period is 2 ns.
 
-![invchain](https://user-images.githubusercontent.com/119739544/213428274-5cfb8146-434f-471f-81ae-f7fe1bfdb37f.svg)
 
 
 
