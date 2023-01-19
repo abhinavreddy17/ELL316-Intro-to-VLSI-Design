@@ -13,6 +13,7 @@ With ngspice (or LTspice) simulations we need to come up with a graph with x-axi
 With an input before the first inverter has a rise and fall time of 10 ps, the pulse width is 1 ns and the period is 2 ns.
 
 
+![invchain](https://user-images.githubusercontent.com/119739544/213428964-612fe5d2-b320-4e39-9078-742fa35128f3.svg)
 
 
 # ELL316 Assignment 3.pdf
